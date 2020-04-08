@@ -1,3 +1,3 @@
-# Basic-Prortfolio
+# Basic-Portfolio
 
 Html/CSS basic portofolio.
